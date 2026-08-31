@@ -15,6 +15,7 @@ Este repositório serve como base para iniciar novos projetos em Python com:
 
 ## Estrutura do projeto
 
+- `src/` (opcional/recomendado): diretório para o código da aplicação.
 - `main.py`: ponto de entrada da aplicação. Atualmente está vazio e deve ser substituído pela lógica principal do projeto.
 - `tests/`: pasta para testes automatizados.
 - `pyproject.toml`: configuração do projeto, dependências e tarefas.
